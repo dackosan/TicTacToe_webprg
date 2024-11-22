@@ -42,5 +42,9 @@ button{
 }
 
 p{
+    font-style: italic;
+}
+
+div>p{
     font-weight: bolder;
 }
